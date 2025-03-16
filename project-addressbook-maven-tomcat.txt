@@ -31,3 +31,5 @@ Revision of project deployment using maven and tomcat
 
 now copy the public ip 
 http://publicip:8080/addressbook
+
+6) This is final step
